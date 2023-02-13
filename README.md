@@ -20,4 +20,4 @@ let binaryDecimal = UInt32(binary: bigEndianBinary, endianness: .big)
 ```
 
 ## Authors
-- anton@stragner.com
+- anton@wollut.com
